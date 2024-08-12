@@ -65,9 +65,3 @@ To check and automatically fix code style issues, use:
       ```bash
    npm run format
   
-6. Linting and Formatting Code
-To check and automatically fix code style issues, use:
-- npm run lint
-  
-7. To format TypeScript files with Prettier, run:
-- npm run format
