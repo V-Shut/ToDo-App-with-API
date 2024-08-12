@@ -21,3 +21,34 @@ This project is a React and TypeScript-based Todo List application that allows u
 # Utilities:
 - Filtering: A utility function, filterTodos, is used to filter tasks based on the selected filter (All, Active, Completed).
 - Server Requests: API requests are abstracted into functions that handle the interaction with the backend, providing a clean and modular approach to handling server data.
+
+# How to use:
+Project Interaction Instructions
+This project is a React TypeScript starter pack, including setup for ESLint, Prettier, and Bulma for styling.
+
+Cloning the Repository:
+1. To get started, clone the repository:
+- git clone
+- cd react-typescript-starter-pack
+  
+2. Installing Dependencies
+After cloning, install the required dependencies:
+- npm install
+  
+3. Running the Project in Development Mode
+To run the project in development mode, use:
+- npm start (This will open your project in the default web browser.)
+  
+4. Building the Project for Production
+To build the project for production, run:
+- npm run build (This will create an optimized version of your app in the build folder.)
+5. Deploying to GitHub Pages
+To deploy to GitHub Pages, use the following commands:
+- npm run deploy
+  
+6. Linting and Formatting Code
+To check and automatically fix code style issues, use:
+- npm run lint
+  
+7. To format TypeScript files with Prettier, run:
+- npm run format
